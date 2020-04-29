@@ -1,0 +1,5 @@
+hostname,ip,port,username,password,secret,device_type
+R1,127.0.0.1,60002,cisco,cisco,cisco,cisco_ios
+R2,127.0.0.1,60003,cisco,cisco,cisco,cisco_ios
+R3,127.0.0.1,60004,cisco,cisco,cisco,cisco_ios
+switch01,127.0.0.1,60001,cisco,cisco,cisco,cisco_ios

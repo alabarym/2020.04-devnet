@@ -1,0 +1,9 @@
+*.egg-info
+__pycache__
+dist/
+*.pyc
+device-backup.py
+devices.csv
+.venv/
+*.un~
+*.old
